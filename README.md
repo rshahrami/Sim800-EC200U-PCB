@@ -6,8 +6,8 @@ this project use PCB for Sim800L to EC200U converter
 
 ## PCB Layers
 
-<img src="Documentation/Images/PCB-1.png" width="500">
-<img src="Documentation/Images/PCB-2.png" width="500">
+<img src="Documentation/Images/PCB-1.png" width="800">
+<img src="Documentation/Images/PCB-2.png" width="800">
 
 
 ## List Components
